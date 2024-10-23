@@ -21,7 +21,9 @@ fn register_book(name:String) {
         name:name
     };
 
-    println!("Kitabınız kaydedildia")
+    println!("Kitabınız kaydedildia");
+
+    let sayı =1;
     
 }
 
